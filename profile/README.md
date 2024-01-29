@@ -52,3 +52,6 @@ Everything we do is based on Agile methodology principles, UX best practices, an
     Active Bridge takes care of the sourcing and selection of qualified candidates among the company bench with the needed skills and experience level for the client’s job.
   </details>
 </p>
+
+<h1 align='center'>🅣🅔🅐🅜</h1>
+<a href="https://activebridge.org/team" target="_blank"><img width="100%" alt="Team" src="https://den.activebridge.org/assets/images/team/team.webp"></a>
