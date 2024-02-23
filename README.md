@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-<details align='center'>
+<details open align='center'>
   <summary>
     <h1>🎆 🅛🅞🅖🅞🅢</h1>
   </summary>
@@ -27,7 +27,7 @@
       <img width="32%" src="https://github.com/activebridge/.github/blob/main/logos/Logo_Short_White.png?raw=true">
     </p>
   </details>
-  <details align='left'>
+  <details open align='left'>
     <summary>
       <h3>🌁 SVG</h3>
     </summary>
@@ -43,7 +43,7 @@
   </details>
 </details>
 
-<details align='center'>
+<details open align='center'>
   <summary>
     <h1>🌉 🅦🅐🅛🅛🅟🅐🅟🅔🅢</h1>
   </summary>
@@ -89,7 +89,7 @@
   </details>
 </details>
 
-<details align='center'>
+<details open align='center'>
   <summary>
     <h1>🌇 🅢🅞🅒🅘🅐🅛</h1>
   </summary>
