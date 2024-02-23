@@ -1,6 +1,8 @@
-<picture>
-  <img src="https://github.com/activebridge/.github/blob/main/social/LinkedIn_Cover_Medium.png?raw=true">
-</picture>
+<p align='center'>
+  <picture>
+    <img width='30%' src="https://github.com/activebridge/.github/blob/main/logos/Logo_Full_Color.png?raw=true">
+  </picture>
+</p>
 
 <h1 align='center'>
   <a href="https://github.com/activebridge/.github/blob/main/ActiveBridge Brandbook.pdf" target="_blank">
@@ -8,7 +10,7 @@
   </a>
 </h1>
 
-<details open align='center'>
+<details align='center'>
   <summary>
     <h1>🎆 🅛🅞🅖🅞🅢</h1>
   </summary>
@@ -125,3 +127,7 @@
     </p>
   </details>
 </details>
+
+<picture>
+  <img src="https://github.com/activebridge/.github/blob/main/social/LinkedIn_Cover_Medium.png?raw=true">
+</picture>
