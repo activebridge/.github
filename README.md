@@ -36,8 +36,8 @@
       <img width="32%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Full_Color.svg?raw=true">
       <img width="32%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Full_White.svg?raw=true">
       <img width="24%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Short_Color.svg?raw=true">
-      <img width="24%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Short_White_5,5-3.svg?raw=true">
-      <img width="24%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Short_Black.svg?raw=true">
+      <img width="40%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Short_White_5,5-3.svg?raw=true">
+      <img width="40%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Short_Black.svg?raw=true">
       <img width="24%" src="https://github.com/activebridge/.github/blob/main/vector/Logo_Short_White.svg?raw=true">
     </p>
   </details>
