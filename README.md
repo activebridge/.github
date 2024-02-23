@@ -1,6 +1,6 @@
 <p align='center'>
   <picture>
-    <img width='30%' src="https://github.com/activebridge/.github/blob/main/logos/Logo_Full_Color.png?raw=true">
+    <img width='30%' src="https://github.com/activebridge/.github/blob/main/vector/Logo_Full_Color.svg?raw=true">
   </picture>
 </p>
 
@@ -91,7 +91,7 @@
 
 <details align='center'>
   <summary>
-    <h1>😉 🅢🅞🅒🅘🅐🅛</h1>
+    <h1>🌇 🅢🅞🅒🅘🅐🅛</h1>
   </summary>
   <details open align='left'>
     <summary>
@@ -128,6 +128,8 @@
   </details>
 </details>
 
-<picture>
-  <img src="https://github.com/activebridge/.github/blob/main/social/LinkedIn_Cover_Medium.png?raw=true">
-</picture>
+<p align='center'>
+  <picture>
+    <img width='40%' src="https://github.com/activebridge/.github/blob/main/logos/Logo_Short_White.png?raw=true">
+  </picture>
+</p>
