@@ -9,15 +9,15 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-1.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-2.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-3.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-4.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-5.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-6.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-7.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-8.webp"></a>
-  <a href="#"><img width="10%" alt="Technologies" src="https://den.activebridge.org/assets/images/index/award-9.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-1.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-2.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-3.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-4.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-5.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-6.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-7.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-8.webp"></a>
+  <a href="#"><img width="10%" alt="Technologies" src="https://activebridge.org/assets/images/index/award-9.webp"></a>
 </p>
 
 <h3>
@@ -34,7 +34,7 @@ Everything we do is based on Agile methodology principles, UX best practices, an
 </h2>
 
 <h1 align='center'>🅣🅔🅒🅗🅝🅞🅛🅞🅖🅘🅔🅢</h1>
-<a href="#"><img width="100%" alt="Ruby on Rails, AngularJS, React, PostgreSQL, Sidekiq Pro, Heroku, AWS, IONIC, HTML, CSS, JavaScript, ElasticSearch" src="https://den.activebridge.org/assets/images/web_development_services/technologies_d_table.svg"></a>
+<a href="#"><img width="100%" alt="Ruby on Rails, AngularJS, React, PostgreSQL, Sidekiq Pro, Heroku, AWS, IONIC, HTML, CSS, JavaScript, ElasticSearch" src="https://activebridge.org/assets/images/web_development_services/technologies_d_table.svg"></a>
 
 <h1 align='center'>🅑🅔🅝🅔🅕🅘🅣🅢</h1>
 <p align='center'>
@@ -61,7 +61,7 @@ Everything we do is based on Agile methodology principles, UX best practices, an
 </p>
 
 <h1 align='center'>🅣🅔🅐🅜</h1>
-<a href="https://activebridge.org/team" target="_blank"><img width="100%" alt="Team" src="https://den.activebridge.org/assets/images/team/team.webp"></a>
+<a href="https://activebridge.org/team" target="_blank"><img width="100%" alt="Team" src="https://activebridge.org/assets/images/team/team.webp"></a>
 
 <h1 align='center'>❤️</h1>
 
